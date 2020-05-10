@@ -1,3 +1,18 @@
+# Grafici Excel basati sui dati della protezione civile
+Questo fork include il file andamento-nazionale.xlsx per la visualizzazione di un grafico per ogni dato dell'andamento nazionale forniti dalla protezione civile.
+Il file é realizzato con Microsoft Excel 2016.
+
+# Aggiornamento dei grafici
+Questo repository viene aggiornato di tanto in tanto. Per aggiornare:
+```
+    git clone https://github.com/luky83/COVID-19.git
+    cd COVID-19
+    git remote add upstream https://github.com/pcm-dpc/COVID-19.git
+    git pull upstream master
+```
+A questo punto aprire il file in Excel, tab Dati, "Aggiorna tutti" e selezionare il file dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv
+
+#
 <img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
 
 [Italiano](README.md) - [English](README_EN.md)<br><br>
