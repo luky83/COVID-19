@@ -22,12 +22,7 @@ A questo punto aprire il file in Excel, tab Dati, "Aggiorna tutti" e selezionare
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
  
-## Avviso modifiche 
-[https://github.com/pcm-dpc/COVID-19/issues/625](https://github.com/pcm-dpc/COVID-19/issues/625#issuecomment-629615944)<br>
-Modifiche effettuate - fino al 22 maggio 2020, nella cartella legacy-data, saranno caricati i dati giornalieri con i codice_regione 04 per P.A. Bolzano e P.A. Trento che da oggi assumeranno il nuovo valore codice_regione 21 per P.A. Bolzano e 22 per P.A. Trento<br>
-
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
-
 
 Il 31 gennaio 2020, il Consiglio dei Ministri dichiara lo stato di emergenza, per la durata di sei mesi, in conseguenza del rischio sanitario connesso all'infezione da Coronavirus.
 
@@ -96,6 +91,7 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
+├── data-legacy
 ├── note/
 │   ├── dpc-covid19-ita-note-en.csv
 │   ├── dpc-covid19-ita-note-it.csv
@@ -115,7 +111,7 @@ COVID-19/
 
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
 - [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
-- [Dati aree misure restrittive COVID19](dati_aree-nazionali-subregionali-misure-restrittive-covid19.md)
+- [Dati aree misure restrittive COVID19](dati-aree-covid19.md)
 
 ## Licenza
 
