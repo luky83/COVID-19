@@ -7,6 +7,9 @@
 ## Notices
 
 ```diff
+- 31/05/2020: Abruzzo Region discharged/healed people data not updated
+- 30/05/2020: Abruzzo Region data update not received
+- 29/05/2020: Marche Region recalculation of deaths (11 deaths previously reported cannot be classified as Covid-19 and are not included in the ISS database)
 - 25/05/2020: Sardegna Region data recalculation of positive cases (-2 for false positives by the ASSL of Oristano and by the ASSL of Sassari)
 - 24/05/2020: Lombardia Region deceased people data not updated
 - 19/05/2020: Marche Region positive cases recalculation: -8 (-7 on 17/05/2020 and -1 on 18/05/2020)
