@@ -79,3 +79,31 @@ dc-EN-0040,2020-06-09T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,data correction,re
 dc-EN-0041,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,data correction,recalculation of information,1 death attributable to today and 32 deaths occurred in previous periods
 dc-EN-0042,2020-06-09T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,recalculation of information,-1 positive case compared to yesterday
 dc-EN-0043,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,-1 positive case compared to yesterday
+dc-EN-0044,2020-06-12T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of deceased (-1 related to yesterday)
+dc-EN-0045,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of deceased (-1 related to yesterday)
+dc-EN-0046,2020-06-12T17:00:00,dati-regioni,ITA,15,Campania,,,,data correction,recalculation of information,recalculation of positive cases (-230)
+dc-EN-0047,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,data correction,recalculation of information,recalculation of positive cases (-230)
+dc-EN-0048,2020-06-13T17:00:00,dati-regioni,ITA,12,Lazio,,,,data correction,recalculation of information,recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)
+dc-EN-0049,2020-06-13T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,data correction,recalculation of information,recalculation of deaths (+25 compared to yesterday +2 deaths in the last 48 hours and +23 attributable to March and April)
+dc-EN-0050,2020-06-15T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of positive cases (-2)
+dc-EN-0051,2020-06-15T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of positive cases (-2)
+dc-EN-0052,2020-06-17T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,data correction,recalculation of information,recalculation of positive cases (-1 referred to 14/06/2020)
+dc-EN-0053,2020-06-17T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,data correction,recalculation of information,recalculation of positive cases (-1 referred to 14/06/2020)
+dc-EN-0054,2020-06-17T18:00:00,dati-regioni,ITA,13,Abruzzo,,,,data correction,recalculation of information,recalculation of positive cases (-2 referred to 06/04/2020 and 14/06/2020)
+dc-EN-0055,2020-06-17T18:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,data correction,recalculation of information,recalculation of positive cases (-2 referred to 06/04/2020 and 14/06/2020)
+dc-EN-0056,2020-06-19T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,data correction,recalculation of information,recalculation of positive cases (-2 referred to 14/06/2020)
+dc-EN-0057,2020-06-19T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,data correction,recalculation of information,recalculation of positive cases (-2 referred to 14/06/2020)
+dc-EN-0058,2020-06-19T17:00:00,dati-regioni,ITA,19,Sicilia,,,,data correction,recalculation of information,recalculation of positive cases (-397)
+dc-EN-0059,2020-06-19T17:00:00,dati-andamento-nazionale,ITA,19,Sicilia,,,,data correction,recalculation of information,recalculation of positive cases (-397)
+dc-EN-0060,2020-06-19T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of positive cases (+3 already recovered)
+dc-EN-0061,2020-06-19T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,data correction,recalculation of information,recalculation of positive cases (+3 already recovered)
+dc-EN-0062,2020-06-19T17:00:00,dati-regioni,ITA,18,Calabria,,,,data correction,recalculation of information,recalculation of positive cases (-1 referred to 18/06/2020)
+dc-EN-0063,2020-06-19T17:00:00,dati-andamento-nazionale,ITA,18,Calabria,,,,data correction,recalculation of information,recalculation of positive cases (-1 referred to 18/06/2020)
+dc-EN-0064,2020-06-22T17:00:00,dati-regioni,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of positive cases (+3)
+dc-EN-0065,2020-06-22T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,data correction,recalculation of information,recalculation of positive cases (+3)
+dc-EN-0066,2020-06-23T17:00:00,dati-regioni,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of positive cases (-9)
+dc-EN-0067,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,data correction,recalculation of information,recalculation of positive cases (-9)
+dc-EN-0068,2020-06-23T17:00:00,dati-regioni,ITA,02,Valle d'Aosta,,,,data correction,recalculation of information,recalculation of tests
+dc-EN-0069,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,02,Valle d'Aosta,,,,data correction,recalculation of information,recalculation of tests
+dc-IT-0070,2020-06-23T17:00:00,dati-regioni,ITA,22,P.A. Trento,,,,data correction,recalculation of information,recalculation of deceased and recovered
+dc-IT-0071,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,22,P.A. Trento,,,,data correction,recalculation of information,recalculation of deceased and recovered

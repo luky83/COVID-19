@@ -81,3 +81,31 @@ dc-IT-0040,2020-06-09T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,correzione dati,ri
 dc-IT-0041,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
 dc-IT-0042,2020-06-09T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,-1 caso positivo rispetto a ieri
 dc-IT-0043,2020-06-09T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,-1 caso positivo rispetto a ieri
+dc-IT-0044,2020-06-12T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo deceduti (-1 relativo a ieri)
+dc-IT-0045,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo deceduti (-1 relativo a ieri)
+dc-IT-0046,2020-06-12T17:00:00,dati-regioni,ITA,15,Campania,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-230)
+dc-IT-0047,2020-06-12T17:00:00,dati-andamento-nazionale,ITA,15,Campania,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-230)
+dc-IT-0048,2020-06-13T17:00:00,dati-regioni,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
+dc-IT-0049,2020-06-13T17:00:00,dati-andamento-nazionale,ITA,12,Lazio,,,,correzione dati,ricalcolo delle informazioni,ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
+dc-IT-0050,2020-06-15T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2)
+dc-IT-0051,2020-06-15T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2)
+dc-IT-0052,2020-06-17T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-1 riferito al 14/06/2020)
+dc-IT-0053,2020-06-17T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-1 riferito al 14/06/2020)
+dc-IT-0054,2020-06-18T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2 riferiti ai giorni 06/04/2020 e 14/06/2020)
+dc-IT-0055,2020-06-18T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2 riferiti ai giorni 06/04/2020 e 14/06/2020)
+dc-IT-0056,2020-06-19T17:00:00,dati-regioni,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2 riferiti al giorno 14/06/2020)
+dc-IT-0057,2020-06-19T17:00:00,dati-andamento-nazionale,ITA,13,Abruzzo,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-2 riferiti al giorno 14/06/2020)
+dc-IT-0058,2020-06-19T17:00:00,dati-regioni,ITA,19,Sicilia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-397)
+dc-IT-0059,2020-06-19T17:00:00,dati-andamento-nazionale,ITA,19,Sicilia,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-397)
+dc-IT-0060,2020-06-20T17:00:00,dati-regioni,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (+3 già guariti)
+dc-IT-0061,2020-06-20T17:00:00,dati-andamento-nazionale,ITA,21,P.A. Bolzano,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (+3 già guariti)
+dc-IT-0062,2020-06-20T17:00:00,dati-regioni,ITA,18,Calabria,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-1 riferito al giorno 18/06/2020)
+dc-IT-0063,2020-06-20T17:00:00,dati-andamento-nazionale,ITA,18,Calabria,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-1 riferito al giorno 18/06/2020)
+dc-IT-0064,2020-06-22T17:00:00,dati-regioni,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (+3)
+dc-IT-0065,2020-06-22T17:00:00,dati-andamento-nazionale,ITA,11,Marche,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (+3)
+dc-IT-0066,2020-06-23T17:00:00,dati-regioni,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-9)
+dc-IT-0067,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,20,Sardegna,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi positivi (-9)
+dc-IT-0068,2020-06-23T17:00:00,dati-regioni,ITA,02,Valle d'Aosta,,,,correzione dati,ricalcolo delle informazioni,ricalcolo tamponi
+dc-IT-0069,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,02,Valle d'Aosta,,,,correzione dati,ricalcolo delle informazioni,ricalcolo tamponi
+dc-IT-0070,2020-06-23T17:00:00,dati-regioni,ITA,22,P.A. Trento,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi deceduti e guariti
+dc-IT-0071,2020-06-23T17:00:00,dati-andamento-nazionale,ITA,22,P.A. Trento,,,,correzione dati,ricalcolo delle informazioni,ricalcolo casi deceduti e guariti

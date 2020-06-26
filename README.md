@@ -38,6 +38,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 - Aree
 - Note
 - Dati contratti DPC forniture
+- Metriche
 
 ## Avvisi
 
@@ -89,7 +90,11 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
-├── data-legacy
+├── metriche
+│   ├── dpc-covid19-ita-metriche-dashboard-desktop.csv
+│   ├── dpc-covid19-ita-metriche-dashboard-desktop.json
+│   ├── dpc-covid19-ita-metriche-dashboard-mobile.csv
+│   ├── dpc-covid19-ita-metriche-dashboard-mobile.json
 ├── note/
 │   ├── dpc-covid19-ita-note-en.csv
 │   ├── dpc-covid19-ita-note-it.csv
@@ -110,6 +115,7 @@ COVID-19/
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
 - [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
 - [Dati aree misure restrittive COVID19](dati-aree-covid19.md)
+- [Metriche](metriche.md)
 
 ## Licenza
 
