@@ -1,0 +1,47 @@
+[
+    {
+        "data": "2020-03-07T17:00:00",
+        "note": "La Provincia di Brescia ha comunicato dati parziali di 300 casi positivi"
+    },
+    {
+        "data": "2020-03-10T17:00:00",
+        "note": "La Regione Lombardia ha comunicato dati parziali"
+    },
+    {
+        "data": "2020-06-01T17:00:00",
+        "note": "[altre date in fase di caricamento]"
+    },
+    {
+        "data": "2020-06-25T17:00:00",
+        "note": "La Regione Marche ha effettuato un ricalcolo sui decessi: n.3 decessi precedentemente segnalati non risultano classificabili come COVID-19 positivi"
+    },
+    {
+        "data": "2020-06-26T17:00:00",
+        "note": "La Regione Emilia Romagna ha effettuato un ricalcolo dei totali positivi: in seguito a verifica sono stati eliminati 4 casi in quanto duplicati"
+    },
+    {
+        "data": "2020-07-01T17:00:00",
+        "note": "La Regione Marche ha comunicato il seguente ricalcolo: n.4 decessi precedentemente segnalati non risultano classificabili come COVID-19 positivi, la Regione Puglia ha comunicato il seguente ricalcolo: ha eliminato n.1 caso duplicato"
+    },
+    {
+        "data": "2020-07-06T17:00:00",
+        "note": "La Regione Friuli Venezia Giulia riporta una diminuzione dei Guariti,rispetto a ieri, in quanto è stata rilevata una ripositivizzazione, la Regione Piemonte riporta che i dati dei casi totali da diagnosi stanno diminuendo in quanto stanno effettuando un ricalcolo e di conseguenza aumentano i casi da screening"
+    },
+    {
+        "data": "2020-07-07T17:00:00",
+        "note": "La Regione Puglia riporta un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato, alla Regione Lazio si aggiungono 21 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale"
+    },
+    {
+        "data": "2020-07-08T17:00:00",
+        "note": "La Regione Lazio segnala che al totale dei casi positivi si aggiunge un totale di 37 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale"
+    },
+    {
+        "data": "2020-07-09T17:00:00",
+        "note": "Le Regioni Liguria, Piemonte e Valle d'Aosta riportano un numero inferiore di casi diagnostici rispetto a ieri, per un ricalcolo, sono aumentati infatti gli screening. La regione Emilia Romagna comunica che a seguito di un ricontrollo, sono stati eliminati dall'AUsl di Reggio Emilia 16 casi: 15 casi erano doppi inserimenti, un caso è stato riattribuito all'AUsl di Cesena. Il totale dei casi all'08.07 era di 28.740, pertanto l'incremento reale dei casi di oggi è +29."
+    },
+    {
+        "data": "2020-07-10T17:00:00",
+        "note": "La Regione Lazio segnala che si aggiungono ulteriori 12 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale. Il totale delle persone positive dal volo in oggetto è 48."
+    }
+]
+

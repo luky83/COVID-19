@@ -5,6 +5,24 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+10/07/2020
+La Regione Lazio segnala che si aggiungono ulteriori 12 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale. Il totale delle persone positive dal volo in oggetto è 48
+
+09/07/2020
+Le Regioni Liguria, Piemonte e Valle d'Aosta riportano un numero inferiore di casi diagnostici rispetto a ieri, per un ricalcolo, sono aumentati infatti gli screening. La regione Emilia Romagna comunica che a seguito di un ricontrollo, sono stati eliminati dall'AUsl di Reggio Emilia 16 casi: 15 casi erano doppi inserimenti, un caso è stato riattribuito all'AUsl di Cesena. Il totale dei casi all'08.07 era di 28.740, pertanto l'incremento reale dei casi di oggi è +29
+
+08/07/2020
+La Regione Lazio segnala che al totale dei casi positivi si aggiunge un totale di 37 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza
+regionale
+
+07/07/2020
+La Regione Puglia riporta un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato, alla Regione Lazio si aggiungono 21 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA –FCO atterrato il 6/06/2020 alle 17.45 presso l’aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale
+
+06/07/2020
+La Regione Friuli Venezia Giulia riporta una diminuzione dei Guariti,rispetto a ieri, in quanto è stata rilevata una ripositivizzazione, la Regione Piemonte riporta che i dati dei casi totali da diagnosi stanno diminuendo in quanto stanno effettuando un ricalcolo e di conseguenza aumentano i casi da screening
+
+01/07/2020
+La Regione Marche ha comunicato il seguente ricalcolo: n.4 decessi precedentemente segnalati non risultano classificabili come COVID-19 positivi, la Regione Puglia ha comunicato il seguente ricalcolo: ha eliminato n.1 caso duplicato
 
 ```diff
 - 24/06/2020: dati P.A. Trento ricalcolo casi deceduti e guariti
